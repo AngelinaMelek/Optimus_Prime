@@ -1,0 +1,9 @@
+# dependencies
+node_modules
+client/node_modules
+admin-ui/node_modules
+
+# dev database
+# server/db/main.db
+
+npm-debug.log*

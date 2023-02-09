@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.cursorStyle": "block",
+    "terminal.integrated.scrollback": 1000000000000000,
+    "terminal.integrated.shellIntegration.history": 100000
+}
